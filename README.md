@@ -4,7 +4,7 @@
 
 Metronome is a metronome interface built with the [SuperCollider language](https://github.com/supercollider/supercollider).
 
-You can find a preview of the software, and discuss the project, on the SuperCollider forum.
+You can find a preview of the software, and discuss the project, on the [SuperCollider forum](https://scsynth.org/t/metronome-a-pink-metronome-made-with-supercollider/9599).
 
 #### Installation
 
